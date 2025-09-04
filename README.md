@@ -8,4 +8,5 @@ Entrada de dados pelo usuário (valor e moeda);
 Saída com o resultado da conversão.
 
 #Exemplo de como fica:
+
 <img width="651" height="114" alt="Captura de tela 2025-09-04 133746" src="https://github.com/user-attachments/assets/6f80979f-20c8-42b3-a3a1-f6892a115ca1" />
